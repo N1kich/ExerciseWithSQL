@@ -1,0 +1,11 @@
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\obj\Debug\MSSQL_exercise.csprojAssemblyReference.cache
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\obj\Debug\MSSQL_exercise.Form1.resources
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\obj\Debug\MSSQL_exercise.csproj.GenerateResource.cache
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\obj\Debug\MSSQL_exercise.csproj.CoreCompileInputs.cache
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\bin\Debug\MSSQL_exercise.exe.config
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\bin\Debug\MSSQL_exercise.exe
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\bin\Debug\MSSQL_exercise.pdb
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\obj\Debug\MSSQL_exercise.exe
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\obj\Debug\MSSQL_exercise.pdb
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\bin\Debug\DB_by_Nikich.mdf
+C:\Users\funn1\source\repos\MSSQL_exercise\MSSQL_exercise\bin\Debug\DB_by_Nikich_log.ldf
